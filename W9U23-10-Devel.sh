@@ -20,4 +20,4 @@ sudo apt upgrade
 #This installs wine version 8
 sudo apt install --install-recommends winehq-devel
 
-#Subject to GPLv3 License Copyright Nicolas Matthews 2024
+#Subject to GPLv3 License Copyright Nicholas Matthews 2024
