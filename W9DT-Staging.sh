@@ -17,7 +17,7 @@ sudo apt update
 #This upgrades the packages
 sudo apt upgrade
 
-#This installs Wine version 8
+#This installs Wine version 9
 sudo apt install --install-recommends winehq-staging
 
-#Subject to GPLv3 License Copyright Nicholas Matthews 2023
+#Subject to GPLv3 License Copyright Nicholas Matthews 2024

@@ -17,7 +17,7 @@ sudo apt update
 #This upgrades the packages
 sudo apt upgrade
 
-#This installs wine version 7
+#This installs Wine version 9
 sudo apt install --install-recommends winehq-devel
 
-#Subject to GPLv3 License Copyright Nicolas Matthews 2022
+#Subject to GPLv3 License Copyright Nicholas Matthews 2024
